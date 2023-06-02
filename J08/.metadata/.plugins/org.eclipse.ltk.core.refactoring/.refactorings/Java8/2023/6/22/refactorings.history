@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;olamundo.js&apos; to &apos;H_JavaScriptNashorn.src.JavaScriptExemplo.java&apos;&#x0D;&#x0A;- Original project: &apos;Java8&apos;&#x0D;&#x0A;- Destination element: &apos;H_JavaScriptNashorn.src.JavaScriptExemplo.java&apos;&#x0D;&#x0A;- Original element: &apos;olamundo.js&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="/src&lt;H_JavaScriptNashorn.src{JavaScriptExemplo.java" element1="src/H_JavaScriptNashorn/olamundo.js" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1685626911099" units="0" version="1.0"/>
+</session>
